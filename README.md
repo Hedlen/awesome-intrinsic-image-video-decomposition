@@ -2,7 +2,7 @@
 A collection of Intrinsic Image/Video Decomposition based on traditional methods and deep learning methods
 ![avatar](https://github.com/Sharanranjit/Intrinsic-Image-Decomposition/blob/master/demo.png)
 
-### Multi-view hdr image synthesis
+###  Intrinsic Image Decomposition (Traditional method)
 
 * _Lightness and Retinex Theory_ (Journal of the Optical Society of America 1971)[[Paper]](https://www.osapublishing.org/josa/abstract.cfm?uri=josa-61-1-1)
 * _Determining Lightness from an Image_ (Computer graphics and image processing 1974)[[Paper]](http://www.cnbc.cmu.edu/~tai/cp_papers/Horn_On_Lightness_OCR.pdf)
