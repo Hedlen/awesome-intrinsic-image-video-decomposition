@@ -45,11 +45,11 @@ A collection of Intrinsic Image/Video Decomposition based on traditional methods
 * _InverseRenderNet: Learning single image inverse rendering_ (CVPR 2019) [[Paper]](https://arxiv.org/abs/1811.12328)
 * _Unsupervised Learning for Intrinsic Image Decomposition from a Single Image_ (CVPR 2020) [[Paper]](https://arxiv.org/abs/1911.09930)
 
-### Intrinsic Video Decomposition (Traditional method)
+### Intrinsic Video Decomposition (Deep learning method)
 * _Learning Blind Video Temporal Consistency_ (ECCV 2018) [[Project]](https://arxiv.org/abs/1808.00449)[[code]](https://github.com/phoenix104104/fast_blind_video_consistency)
 
 
-### Dataset
+### Datasets
 
 * _MIT Intrinsic Image Dataset_[[Data]](http://www.cs.toronto.edu/~rgrosse/intrinsic/)
 * _Intrinsic Image in the Wild (IIW) Dataset_[[Data]](http://opensurfaces.cs.cornell.edu/publications/intrinsic/)
